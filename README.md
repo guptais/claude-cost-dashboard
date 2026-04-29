@@ -10,6 +10,7 @@ A local Streamlit app that estimates what your Claude.ai conversations would cos
 - Estimates token counts using `tiktoken`
 - Calculates cost using Anthropic's published pricing (Sonnet / Opus / Haiku)
 - Visualises cost over time, token split, and top conversations
+- No API calls are made.
 
 ## Setup
 
